@@ -8,10 +8,10 @@ In chronological order, my talks are:
 * Belavin-Drinfeld classification: following the paper *Triangle Equations and Simple Lie Algebras*, I presented the classification of solutions to the classical Yang-Baxter equation with a spectral parameter (elliptic, rational, and trigonometric). I also sketched the proof of classifications of constant r-matrices via a discrete datum (a Belavin-Drinfeld triple) and a continuous datum (a chosen tensor).
 
 ## Errata and Comments
-Immediately after each talk, I sent a list of errata and comments to the learning group in order to correct the mistakes I made during the talk. I thereby copy-paste the lists here for reference.
+Immediately after each talk, I sent a list of errata and comments to the learning group to correct the mistakes I made during the talk. I thereby copy-paste the lists here for reference.
 
 ### Talk 1: Hopf algebras
-Hi, here are the slides for the first talk today. I also want to list the errata and comments in the talk.	
+Hi, here are the slides for today's first talk. I also want to list the errata and comments in the talk.	
 * On slide 29, I wrote something like "nice Hopf algebras decompose into a twisted tensor product of U(g) and C[G]". This is actually the Cartier–Gabriel theorem which says all cocommutative Hopf algebras decompose into this sort of thing. Also please note that my annotation there was wrong: the group algebra C[G] is obviously NOT commutative. Moreover, if the Hopf algebra is finite-dimensional we are back to Exercise 4 on slide 17.
 * On slide 33, I indicated that the algebra of observables consists of operators on the state space. This is false. Observables are associated with the self-adjoint operators on the state space regarded as a Hilbert space. According to Wikipedia, there are observables that are not given by operators and physically meaningless operators. I can't give further explanations because I don't really understand their physical nature. Please refer to other resources if you are interested.
 * On slides 36 and 37, the first fact is questionable. What is true is that there exists a pairing on C^infty(G) and U(g). Furthermore, this pairing gives us an isomorphism between (1) compactly supported distributions on G that are supported by the identity and (2) the universal enveloping algebra. Another result from Cartier–Gabriel is that the restricted dual of C^infty(G), the algebra of distributions with finite supports, is isomorphic to the twisted tensor product of C[G] and U(g).
@@ -28,4 +28,4 @@ Hello. Here are the (revised) slides for my talk on FRT construction. Please not
 Hi, I am posting my slides for the talk two weeks ago. I have corrected all the problems in the slides. Completing the proofs where I listed several steps might be very helpful. You could use the axioms about R-matrix in the last talk, or work with specific examples we've covered. One thing to be noticed is that the Hecke relation says things about the eigenvalues of the flip of the R matrix, so in the formula the "q, p" are elements in C[[h]]. They are not matrices.
 
 ### Talk 4: Belavin-Drinfeld classifications
-TODO
+[No comments on this talk]
